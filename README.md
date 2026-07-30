@@ -9,7 +9,7 @@
 
 ## 🚀 About Me  
 
-- 🎓 **Final Year Information Science Engineering Student**
+- 🎓 **Information Science Engineering Graduate**
 - 🔭 **Currently Working On:**  
   - Early Disease Diagnosis using Machine Learning  
   - Movie Recommendation System  
@@ -19,7 +19,7 @@
 - 👯 **Open to Collaborate On:**  
   - AI / ML Projects  
   - Full-Stack Web Applications  
-- 💬 **Ask Me About:** Python, Machine Learning, Data Science, SQL, Backend Development  
+- 💬 **Ask Me About:** Python, Machine Learning, Data Science, SQL, Backend Development, Frontend Development  
 - 📫 **Reach Me:** **lohithgowda062004@gmail.com**  
 - ⚡ **Fun Fact:** I enjoy breaking complex ML concepts into simple explanations 😄  
 
