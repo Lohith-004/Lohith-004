@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lohith Gowda C P</h1>
-<h3 align="center">🚀 Full Stack Developer | Machine Learning Enthusiast | ISE Final Year 🚀</h3>
+<h3 align="center">🚀 Full Stack Developer | ISE Final Year 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Machine+Learning+Engineer;AI+for+Healthcare+%26+Education;Always+Building+%26+Learning!" />
